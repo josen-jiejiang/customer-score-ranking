@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|d:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\customerrank\\customerrank\\redisconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|solutionrelative:customerrank\\redisconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|d:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\customerrank\\customerrank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|solutionrelative:customerrank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|d:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\customerrank\\customerrank\\customerscoresorthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|solutionrelative:customerrank\\customerscoresorthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|d:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\customerrank\\customerrank\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|solutionrelative:customerrank\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|d:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\customerrank\\customerrank\\channelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|solutionrelative:customerrank\\channelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|d:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\customerrank\\customerrank\\channelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|solutionrelative:customerrank\\channelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|d:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\customerrank\\customerrank\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E57BCE-073D-4E41-85C9-6D751998EBE9}|CustomerRank\\CustomerRank.csproj|solutionrelative:customerrank\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisConnection.cs",
+              "DocumentMoniker": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\RedisConnection.cs",
+              "RelativeDocumentMoniker": "CustomerRank\\RedisConnection.cs",
+              "ToolTip": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\RedisConnection.cs",
+              "RelativeToolTip": "CustomerRank\\RedisConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:17:59.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerRank\\Program.cs",
+              "ToolTip": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\Program.cs",
+              "RelativeToolTip": "CustomerRank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:17:58.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerScoreSortHandler.cs",
+              "DocumentMoniker": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\CustomerScoreSortHandler.cs",
+              "RelativeDocumentMoniker": "CustomerRank\\CustomerScoreSortHandler.cs",
+              "ToolTip": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\CustomerScoreSortHandler.cs",
+              "RelativeToolTip": "CustomerRank\\CustomerScoreSortHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:17:54.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "CustomerRank\\CustomerEntity.cs",
+              "ToolTip": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\CustomerEntity.cs",
+              "RelativeToolTip": "CustomerRank\\CustomerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:17:52.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChannelHandler.cs",
+              "DocumentMoniker": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\ChannelHandler.cs",
+              "RelativeDocumentMoniker": "CustomerRank\\ChannelHandler.cs",
+              "ToolTip": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\ChannelHandler.cs",
+              "RelativeToolTip": "CustomerRank\\ChannelHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:17:49.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChannelContext.cs",
+              "DocumentMoniker": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\ChannelContext.cs",
+              "RelativeDocumentMoniker": "CustomerRank\\ChannelContext.cs",
+              "ToolTip": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\ChannelContext.cs",
+              "RelativeToolTip": "CustomerRank\\ChannelContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:17:48.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerRank\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\\u4E2A\u4EBA\u6587\u4EF6\\\u4E34\u65F6\u6587\u4EF6\\\u65B0\u5EFA\u6587\u4EF6\u5939\\customer-score-ranking\\CustomerRank\\CustomerRank\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerRank\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwDEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:17:22.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

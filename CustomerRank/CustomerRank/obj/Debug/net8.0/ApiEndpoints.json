@@ -1,0 +1,100 @@
+[
+  {
+    "ContainingType": "CustomerRank.Controllers.CustomerController",
+    "Method": "UpdateScore",
+    "RelativePath": "customer/{customerid}/score/{score}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerid",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "score",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CustomerRank.Controllers.CustomerController",
+    "Method": "GetCustomersByRank",
+    "RelativePath": "leaderboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "start",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "end",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CustomerRank.Controllers.CustomerController",
+    "Method": "GetCustomersByCustomerid",
+    "RelativePath": "leaderboard/{customerid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerid",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "high",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "low",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
